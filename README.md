@@ -54,8 +54,11 @@ Building high-performance landing pages with:
 ### 🧩 Languages  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=c" height="60" />
 </div>
 
@@ -64,7 +67,9 @@ Building high-performance landing pages with:
 ### ⚙️ Backend & Realtime  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" />
 </div>
 
@@ -73,8 +78,11 @@ Building high-performance landing pages with:
 ### 🗄 Databases  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
 </div>
 
@@ -83,10 +91,15 @@ Building high-performance landing pages with:
 ### 🎨 Frontend & UI/UX  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=css" height="60" />
 </div>
 
@@ -95,7 +108,9 @@ Building high-performance landing pages with:
 ### 🧪 Tools & Services  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=heroku" height="60" />
 </div>
 
