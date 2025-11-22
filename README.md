@@ -1,16 +1,124 @@
-## Hi there 👋
+<h1 align="left">👋 Hi, I'm Pushpak Kumar</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4MjEwNTIsIm5iZiI6MTc2MzgyMDc1MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIyVDE0MTIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMTVlYjFkMGQxYjI0NDg4OWQwZWJmMzFmMDMyMDMzZmM1NDg2MjUzOTEzOWM5OTk5M2FjYjRkNDYwNTJiODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.51WcONEVW0MFHrZGOQVGXmuE_KUQnoQ5TpZsyP9ovQI"/>
+</div>
 
-<!--
-**PushpakKumar12a/PushpakKumar12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 MERN Stack Developer | 🤖 Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+I build intelligent, data-driven, and high-performance web applications using the <b>MERN stack, machine learning, and AI workflows</b>.  
+I focus on <b>turning data into insights</b> and <b>insights into scalable products</b> with clean UI/UX, modern architectures, and real-world impact.
+</p>
+
+
+---
+
+## 🔭 What I'm Working On
+
+### 🛡 **File Integrity Checker**  
+A Python + MERN-based system to verify file authenticity and detect tampering:  
+- Hash generation & verification (SHA-256 / SHA-512)  
+- Upload-based and local-file checks  
+- Dashboard built using MERN  
+- Clean UI for secure file validation  
+
+### 🖥 **Modern Landing Pages**  
+Building high-performance landing pages with:  
+- Vite + React  
+- Tailwind animations  
+- Fast, responsive layouts  
+
+---
+
+## 🌱 What I'm Learning  
+- Machine Learning  
+- Advance MERN Stack Techniques  
+- Realtime system design (WebRTC, WebSockets, Event-driven architecture)  
+
+---
+
+## 💬 Ask Me About  
+- React + Vite  
+- Node.js, Express  
+- MongoDB & scalable database design  
+- Realtime apps (WebSockets, WebRTC)  
+- AI workflows in modern web apps  
+- Clean UI/UX + optimized frontend systems  
+
+---
+
+# 🛠 Tech Stack
+
+## 🧩 Languages  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+</div>
+
+---
+
+## ⚙️ Backend & Realtime  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+</div>
+
+---
+
+## 🗄 Databases  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+</div>
+
+---
+
+## 🎨 Frontend & UI/UX  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+</div>
+
+---
+
+## 🧪 Tools & Services  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" />
+</div>
+
+---
+
+# 🤝 Connect With Me  
+<div align="left">
+  <a href="https://github.com/PushpakKumar12a" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/pushpak-kumar12a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:pushpakalpha12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+---
+
+# 📈 GitHub Streak  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pushpakkumar12a&theme=nightowl&hide_border=false&border_radius=5" width=60%/>
+</div>
+
+---
