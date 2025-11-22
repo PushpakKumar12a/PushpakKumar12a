@@ -49,59 +49,60 @@ Building high-performance landing pages with:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 🧩 Languages  
+### 🧩 Languages  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" />
 </div>
 
 ---
 
-## ⚙️ Backend & Realtime  
+### ⚙️ Backend & Realtime  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" />
 </div>
 
 ---
 
-## 🗄 Databases  
+### 🗄 Databases  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
 </div>
 
 ---
 
-## 🎨 Frontend & UI/UX  
+### 🎨 Frontend & UI/UX  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" />
 </div>
 
 ---
 
-## 🧪 Tools & Services  
+### 🧪 Tools & Services  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="60" />
 </div>
+
 
 ---
 
-# 🤝 Connect With Me  
+## 🤝 Connect With Me  
 <div align="left">
   <a href="https://github.com/PushpakKumar12a" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" />
@@ -116,9 +117,8 @@ Building high-performance landing pages with:
 
 ---
 
-# 📈 GitHub Streak  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pushpakkumar12a&theme=nightowl&hide_border=false&border_radius=5" width=60%/>
-</div>
+Thank you for visiting my profile! 🚀  
+I’m constantly learning, building, and experimenting with modern technologies—from **MERN stack development** to **machine learning and realtime systems**.  
 
----
+If my work aligns with your interests or you’d like to collaborate on something exciting, feel free to reach out.  
+Let’s build something impactful together! ✨ 
