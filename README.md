@@ -1,6 +1,7 @@
 <h1 align="left">👋 Hi, I'm Pushpak Kumar</h1>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4MjEwNTIsIm5iZiI6MTc2MzgyMDc1MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIyVDE0MTIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzMTVlYjFkMGQxYjI0NDg4OWQwZWJmMzFmMDMyMDMzZmM1NDg2MjUzOTEzOWM5OTk5M2FjYjRkNDYwNTJiODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.51WcONEVW0MFHrZGOQVGXmuE_KUQnoQ5TpZsyP9ovQI"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 </div>
 
 ---
@@ -11,7 +12,6 @@
 I build intelligent, data-driven, and high-performance web applications using the <b>MERN stack, machine learning, and AI workflows</b>.  
 I focus on <b>turning data into insights</b> and <b>insights into scalable products</b> with clean UI/UX, modern architectures, and real-world impact.
 </p>
-
 
 ---
 
@@ -105,6 +105,21 @@ Building high-performance landing pages with:
 
 ---
 
+### 📊 Data Science & ML Libraries  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" />
+  <img width="2" />
+  <img src="https://pushpakkumar.netlify.app/assets/seaborn-D3rvkIVv.svg" height="50">
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" />
+</div>
+
+---
+
 ### 🧪 Tools & Services  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="60" />
@@ -113,7 +128,6 @@ Building high-performance landing pages with:
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=heroku" height="60" />
 </div>
-
 
 ---
 
@@ -132,8 +146,10 @@ Building high-performance landing pages with:
 
 ---
 
+## 🧭 Conclusion  
+
 Thank you for visiting my profile! 🚀  
 I’m constantly learning, building, and experimenting with modern technologies—from **MERN stack development** to **machine learning and realtime systems**.  
 
 If my work aligns with your interests or you’d like to collaborate on something exciting, feel free to reach out.  
-Let’s build something impactful together! ✨ 
+Let’s build something impactful together! ✨
