@@ -15,15 +15,6 @@ I focus on <b>turning data into insights</b> and <b>insights into scalable produ
 
 ---
 
-## 🔭 What I'm Working On
-
-### 🛡 **File Integrity Checker**  
-A Python + MERN-based system to verify file authenticity and detect tampering:  
-- Hash generation & verification (SHA-256 / SHA-512)  
-- Upload-based and local-file checks  
-- Dashboard built using MERN  
-- Clean UI for secure file validation  
-
 ### 🖥 **Modern Landing Pages**  
 Building high-performance landing pages with:  
 - Vite + React  
