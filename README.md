@@ -6,43 +6,49 @@
 
 ---
 
-### 🚀 MERN Stack Developer | 🤖 Data Scientist
+### 🚀 MERN Stack Developer | 🤖 Data Scientist | 🔐 AI Systems Builder
 
 <p align="left">
-I build intelligent, data-driven, and high-performance web applications using the <b>MERN stack, machine learning, and AI workflows</b>.  
+I build intelligent, data-driven, and high-performance web applications using the <b>MERN stack, machine learning, and AI workflows</b>.<br/>
 I focus on <b>turning data into insights</b> and <b>insights into scalable products</b> with clean UI/UX, modern architectures, and real-world impact.
 </p>
 
 ---
 
-### 🖥 **Modern Landing Pages**  
-Building high-performance landing pages with:  
-- Vite + React  
-- Tailwind animations  
-- Fast, responsive layouts  
+## 🔨 Currently Building
+
+### 🔐 CCTV Surveillance System *(In Progress)*
+An AI-powered real-time surveillance system with intelligent threat detection and live monitoring:
+- **Object & Anomaly Detection** using YOLO + TensorFlow for real-time video analysis
+- **Live Video Streaming** via WebRTC/WebSockets for low-latency browser-based monitoring
+- **React Dashboard** for multi-feed display, alerts, and event history
+- **Python/OpenCV Backend** for frame processing, motion detection, and pipeline management
+- **Tech Stack:** Python, OpenCV, TensorFlow, YOLO, WebSockets, WebRTC, React, Node.js
 
 ---
 
-## 🌱 What I'm Learning  
-- Machine Learning  
-- Advance MERN Stack Techniques  
-- Realtime system design (WebRTC, WebSockets, Event-driven architecture)  
+## 🌱 What I'm Learning
+- Machine Learning & Deep Learning
+- Advance MERN Stack Techniques
+- Realtime system design (WebRTC, WebSockets, Event-driven architecture)
+- Computer Vision & Video Analytics
 
 ---
 
-## 💬 Ask Me About  
-- React + Vite  
-- Node.js, Express  
-- MongoDB & scalable database design  
-- Realtime apps (WebSockets, WebRTC)  
-- AI workflows in modern web apps  
-- Clean UI/UX + optimized frontend systems  
+## 💬 Ask Me About
+- React + Vite
+- Node.js, Express
+- MongoDB & scalable database design
+- Realtime apps (WebSockets, WebRTC)
+- AI workflows in modern web apps
+- Computer Vision & CCTV systems
+- Clean UI/UX + optimized frontend systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧩 Languages  
+### 🧩 Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60" />
   <img width="2" />
@@ -55,18 +61,22 @@ Building high-performance landing pages with:
 
 ---
 
-### ⚙️ Backend & Realtime  
+### ⚙️ Backend & Realtime
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="60" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />
 </div>
 
 ---
 
-### 🗄 Databases  
+### 🗄 Databases
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
   <img width="2" />
@@ -79,7 +89,7 @@ Building high-performance landing pages with:
 
 ---
 
-### 🎨 Frontend & UI/UX  
+### 🎨 Frontend & UI/UX
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="60" />
   <img width="2" />
@@ -96,7 +106,7 @@ Building high-performance landing pages with:
 
 ---
 
-### 📊 Data Science & ML Libraries  
+### 📊 Data Science & ML Libraries
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
   <img width="2" />
@@ -107,13 +117,21 @@ Building high-performance landing pages with:
   <img src="https://pushpakkumar.netlify.app/assets/seaborn-D3rvkIVv.svg" height="50">
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" />
 </div>
 
 ---
 
-### 🧪 Tools & Services  
+### 🧪 Tools & Services
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" />
   <img width="2" />
@@ -122,7 +140,7 @@ Building high-performance landing pages with:
 
 ---
 
-## 🤝 Connect With Me  
+## 🤝 Connect With Me
 <div align="left">
   <a href="https://github.com/PushpakKumar12a" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" />
@@ -137,10 +155,10 @@ Building high-performance landing pages with:
 
 ---
 
-## 🧭 Conclusion  
+## 🧭 Conclusion
 
 Thank you for visiting my profile! 🚀  
-I’m constantly learning, building, and experimenting with modern technologies—from **MERN stack development** to **machine learning and realtime systems**.  
+I'm constantly learning, building, and experimenting with modern technologies — from **MERN stack development** to **machine learning, computer vision, and realtime systems**.
 
-If my work aligns with your interests or you’d like to collaborate on something exciting, feel free to reach out.  
-Let’s build something impactful together! ✨
+If my work aligns with your interests or you'd like to collaborate on something exciting, feel free to reach out.  
+Let's build something impactful together! ✨
