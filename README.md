@@ -15,34 +15,11 @@ I focus on <b>turning data into insights</b> and <b>insights into scalable produ
 
 ---
 
-## 🔨 Currently Building
-
-### 🔐 CCTV Surveillance System *(In Progress)*
-An AI-powered real-time surveillance system with intelligent threat detection and live monitoring:
-- **Object & Anomaly Detection** using YOLO + TensorFlow for real-time video analysis
-- **Live Video Streaming** via WebRTC/WebSockets for low-latency browser-based monitoring
-- **React Dashboard** for multi-feed display, alerts, and event history
-- **Python/OpenCV Backend** for frame processing, motion detection, and pipeline management
-- **Tech Stack:** Python, OpenCV, TensorFlow, YOLO, WebSockets, WebRTC, React, Node.js
-
----
-
 ## 🌱 What I'm Learning
 - Machine Learning & Deep Learning
 - Advance MERN Stack Techniques
 - Realtime system design (WebRTC, WebSockets, Event-driven architecture)
-- Computer Vision & Video Analytics
-
----
-
-## 💬 Ask Me About
-- React + Vite
-- Node.js, Express
-- MongoDB & scalable database design
-- Realtime apps (WebSockets, WebRTC)
-- AI workflows in modern web apps
-- Computer Vision & CCTV systems
-- Clean UI/UX + optimized frontend systems
+- Cloud Technologies (Azure, AWS, Terraform etc)
 
 ---
 
